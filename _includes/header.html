@@ -5,29 +5,14 @@
         <span class="site-description">{{ site.user_title }}</span>
       </h1>
       <div class="header-icons">
-        {% if site.email %}
-        <a aria-label="Send email" href="mailto:{{ site.email }}"><i class="icon fa fa-envelope"></i></a>
-        {% endif %}
-        {% if site.twitter_username %}
-        <a aria-label="My Twitter" target="_blank" href="https://twitter.com/{{ site.twitter_username }}"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if site.instagram_username %}
-        <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/{{ site.instagram_username }}"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if site.facebook_username %}
-        <a aria-label="My Facebook" target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if site.linkedin_username %}
-        <a aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="icon fa fa-linkedin-square" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if site.github_username %}
-        <a aria-label="My Github" target="_blank" href="https://github.com/{{ site.github_username }}"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if site.medium_username %}
-        <a aria-label="My Medium" target="_blank" href="https://medium.com/{{ site.medium_username }}"><i class="icon fa fa-medium" aria-hidden="true"></i></a>
-        {% elsif site.medium_url %}
-        <a aria-label="My Medium" target="_blank" href="https://{{ site.medium_url }}"><i class="icon fa fa-medium" aria-hidden="true"></i></a>
-        {% endif %}
+        <a aria-label="Email" href="mailto:{{ site.email }}"><i class="icon fa fa-envelope"></i></a>
+        <a aria-label="LinkedIn" target="_blank" href="https://www.linkedin.com/in/raphaelwdrf"><i class="icon fa fa-linkedin-square" aria-hidden="true"></i></a>
+        <a aria-label="GoodReads" target="_blank" href="https://www.goodreads.com/raphaelwdrf"><i class="icon fa-solid fa-book" aria-hidden="true"></i></a>
+        <a aria-label="Spotify" target="_blank" href="https://open.spotify.com/user/31b7gknglx3todwijocgvavw5hju"><i class="icon fab fa-spotify" aria-hidden="true"></i></a>
+        <br>
+        <a aria-label="Currículo Resumo" target="_blank" href="https://raphaelwdrf.github.io/links/assets/files/cv-RaphaelFranca_sucinto.pdf"><i class="icon fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+        <a aria-label="Currículo Detalhado" target="_blank" href="https://raphaelwdrf.github.io/links/assets/files/cv-RaphaelFranca.pdf"><i class="icon fa-solid fa-file-pdf" aria-hidden="true"></i></a>
+
       </div>
       <div class="header-links">
         <!-- <a class="link" href="#about" data-scroll>About Me</a> -->
