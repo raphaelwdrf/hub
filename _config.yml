@@ -4,10 +4,28 @@ description: Hub Links
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# User settings
+# PT-BR
+## User settings
 username: Raphael Waldemar
 user_description: Desde a graduação em Engenharia Elétrica pela UFMT, sempre fui movido pela curiosidade de entender como as coisas funcionam — e, principalmente, como podem funcionar melhor. Logo no início da minha carreira, ainda como estagiário na Eletronorte, descobri o impacto real que processos bem estruturados têm no dia a dia das equipes. Essa visão me acompanhou quando ingressei na ATIVA, onde comecei como Analista de Suporte mergulhando em integração de soluções, atendimento ao cliente e melhoria contínua. Com o tempo, evoluí para Coordenador de Projetos, ampliando minha atuação em governança, métricas, padrões e eficiência operacional. A combinação da prática com formações como o MBA em Gerenciamento de Projetos, a pós-graduação em Engenharia de Produção e certificações como Green Belt consolidou minha paixão por gestão. Esse caminho natural me levou ao desafio de atuar como Gerente de PMO, liderando pessoas, estruturando processos, desenvolvendo equipes e transformando estratégias em resultados reais. Minha trajetória segue sendo, acima de tudo, sobre evoluir, aprender e ajudar times a entregarem seu melhor.
 user_title: Engenheiro | Gestão de Projetos
 email: raphaelwdrf@gmail.com
+
+## About
+about_user_project: Prazer em liderar mais de 100 projetos, guiando times, organizando processos e garantindo entregas que realmente fazem a diferença — sempre com foco em colaboração, clareza e resultado.
+about_user_people: Alegria em colaborar com times multidisciplinares, unindo talentos diferentes, fortalecendo a confiança e criando um ambiente onde cada pessoa contribui para algo maior — sempre com colaboração, respeito e propósito.
+about_user_tools: Amo <span class="love">❤</span> utilizar ferramentas que apoiam na organização e fluidez — como Jira, Confluence, Microsoft Project, ERPs e outras soluções que tornam a gestão mais clara, integrada e eficiente.
+
+# EN-US
+## User settings
+username: Raphael Waldemar
+user_description_en: Since earning my degree in Electrical Engineering from UFMT, I have always been driven by curiosity to understand how things work — and, more importantly, how they can work better. Early in my career, as an intern at Eletronorte, I discovered the real impact that well-structured processes have on teams' day-to-day activities. This mindset stayed with me when I joined ATIVA as a Support Analyst, where I immersed myself in solution integration, customer support, and continuous improvement. Over time, I progressed to Project Coordinator, expanding my role into governance, metrics, standards, and operational efficiency. Combining hands-on experience with academic development — including an MBA in Project Management, a postgraduate degree in Production Engineering, and certifications such as Green Belt — strengthened my passion for management. This natural path led me to the challenge of working as a PMO Manager, leading people, structuring processes, developing teams, and transforming strategies into real results. Above all, my journey continues to be about evolving, learning, and helping teams deliver their best.
+user_title_en: Engineer | Project Management & Delivery
+email: raphaelwdrf@gmail.com
+
+## About
+about_user_project_en: It has been a pleasure to lead over 100 projects, guiding teams, organizing processes, and ensuring deliveries that truly make a difference — always focused on collaboration, clarity, and results.
+about_user_people_en: I find great joy in collaborating with multidisciplinary teams, bringing together diverse talents, strengthening trust, and creating an environment where each person contributes to something greater — always with collaboration, respect, and purpose.
+about_user_tools_en: I love <span class="love">❤</span> using tools that support organization and workflow — such as Jira, Confluence, Microsoft Project, ERPs, and other solutions that make management clearer, more integrated, and more efficient.
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
